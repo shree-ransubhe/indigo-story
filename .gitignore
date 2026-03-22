@@ -1,0 +1,7 @@
+# Large video files — host these separately (Vimeo, YouTube, or Git LFS)
+assets/videos/*.mov
+assets/videos/*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
